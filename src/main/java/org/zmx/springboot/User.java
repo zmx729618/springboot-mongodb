@@ -2,7 +2,7 @@ package org.zmx.springboot;
 
 import org.springframework.data.annotation.Id;
 
-public class User {
+public class User {    
 	
     @Id
     private String id;
