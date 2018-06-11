@@ -1,5 +1,0 @@
-spring:
-  data:
-    mongodb:
-       uri: mongodb://172.16.168.116:27017/user
-    
