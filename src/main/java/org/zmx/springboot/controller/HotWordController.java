@@ -130,6 +130,12 @@ public class HotWordController {
 	}
 	
 	
+	@GetMapping("/hello")
+    public String hello() {
+        return "Hello World";
+    }
+	
+	
 	
 
 }
